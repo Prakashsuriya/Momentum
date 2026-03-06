@@ -1,0 +1,71 @@
+```json
+{
+  "title": "7-Day Python Basics",
+  "description": "A concise 30-minute daily plan to master Python fundamentals.",
+  "days": [
+    {
+      "day": 1,
+      "topic": "Setup & Syntax",
+      "tasks": [
+        "Install Python and an IDE (e.g., VS Code or Replit)",
+        "Write your first 'Hello World' script",
+        "Learn about comments and basic print formatting"
+      ]
+    },
+    {
+      "day": 2,
+      "topic": "Variables & Data Types",
+      "tasks": [
+        "Practice assigning variables",
+        "Work with strings, integers, floats, and booleans",
+        "Understand basic type conversion"
+      ]
+    },
+    {
+      "day": 3,
+      "topic": "Control Flow",
+      "tasks": [
+        "Write conditional statements (if, elif, else)",
+        "Use comparison and logical operators",
+        "Practice simple input/output"
+      ]
+    },
+    {
+      "day": 4,
+      "topic": "Loops",
+      "tasks": [
+        "Implement 'for' loops with range()",
+        "Implement 'while' loops",
+        "Practice iterating over lists"
+      ]
+    },
+    {
+      "day": 5,
+      "topic": "Data Structures",
+      "tasks": [
+        "Create and modify lists",
+        "Create and access dictionaries",
+        "Understand indexing and slicing"
+      ]
+    },
+    {
+      "day": 6,
+      "topic": "Functions",
+      "tasks": [
+        "Define functions with def",
+        "Pass arguments and return values",
+        "Understand scope (local vs. global)"
+      ]
+    },
+    {
+      "day": 7,
+      "topic": "Mini Project",
+      "tasks": [
+        "Build a simple calculator or number guessing game",
+        "Combine loops, functions, and conditionals",
+        "Review and debug your code"
+      ]
+    }
+  ]
+}
+```
